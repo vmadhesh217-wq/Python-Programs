@@ -1,10 +1,16 @@
-# 🚀 Python Mini Projects Collection
+# 🚀 Python value added
+
+#Student
+Name : Madhesh.v
+Department : Information Technology
+Register Number : 621324205027
+linkedin : http://www.linkedin.com/in/madhesh-v-940
+
+#About
 
 A collection of beginner-friendly Python programs, mini games, networking examples, Flask applications, file handling scripts, and basic data structure programs.
 
 This repository is designed for students and beginners who want to learn Python through simple and practical examples.
-
----
 
 # 📚 Features
 
